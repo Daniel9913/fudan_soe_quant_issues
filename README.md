@@ -32,6 +32,11 @@ As a developer I want to make the system perfect. I welcome all user ideas and o
 
 python 3.6.8
 
+** 因此，请确保notebook中所使用的kernel版本为env_py3_6_8，如图所示：**
+
+![Xnip2019-09-27_09-26-32.png](http://115.159.85.226/_archive/Xnip2019-09-27_09-26-32.png)
+
+
 4、如何安装第三方库？如何提交反馈bug与使用问题，建议？
 
 **请在 Issues 栏目提交，我们会审核请求，审核通过的会安装到平台上。**
