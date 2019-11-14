@@ -30,12 +30,9 @@ As a developer I want to make the system perfect. I welcome all user ideas and o
 
 3、python 版本号多少？
 
-python 3.6.8
+python 3.7.5
 
-**因此，请确保notebook中所使用的kernel版本为env_py3_6_8，如图所示：**
-
-![Xnip2019-09-27_09-26-32.png](http://47.100.138.101/img/Xnip2019-09-27_09-26-32.png)
-
+notebook中所使用的kernel默认版本为python 3.7.5
 
 4、如何安装第三方库？如何提交反馈bug与使用问题，建议？
 
@@ -45,4 +42,4 @@ python 3.6.8
 
 5、系统数据更新时间
 
-每日凌晨 3:00 - 5:00 为系统数据更新时段，在此期间请不要在平台上进行操作。
+每日凌晨1点系统开始更新数据，数据更新期间请不要在平台上进行操作。
